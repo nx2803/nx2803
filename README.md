@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 Github Contributions
-![Stats](https://github-readme-stats.vercel.app/api?username=[사용자님ID]&theme=dark&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![Stats](https://github-readme-stats.vercel.app/api?username=nx2803&theme=dark&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
