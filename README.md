@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# | Backend Developer
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Minimalist%20Developer&fontSize=50&fontColor=ffffff" />
-</p>
+# | Developer
 
 ### 🛠 Tech Stack (All Black)
 <p align="left">
