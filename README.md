@@ -1,4 +1,4 @@
-# 👨‍💻 [NX2803]
+# NX2803
 ### **Full-Stack Engineer | Design Technologist**
 
 ---
