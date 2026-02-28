@@ -70,7 +70,8 @@
 ---
 
 ## 📊 Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nx2803&show_icons=true&theme=tokyonight&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nx2803&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nx2803&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nx2803&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
