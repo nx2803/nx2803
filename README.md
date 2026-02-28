@@ -1,12 +1,6 @@
 # 👨‍💻 NX2803
 ### **Full-Stack Engineer | Design Technologist**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=180&section=header&text=Iron%20becomes%20harder%20in%20fire&fontSize=35&animation=fadeIn&fontAlignY=38" />
-</div>
-
----
-
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend & Mobile (Design Engineering)
