@@ -70,6 +70,5 @@
 ---
 
 ## 📊 Statistics
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nx2803)](https://github.com/anuraghazra/github-readme-stats)
  [![GitHub Streak](https://streak-stats.demolab.com?user=nx2803&theme=youtube-dark&locale=ko&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
  
