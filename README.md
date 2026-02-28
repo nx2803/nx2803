@@ -40,8 +40,3 @@
   </table>
 </div>
 
----
-
-<div align="center">
-  📫 <b>Contact:</b> [Your Email] | 📝 <b>Blog:</b> [Your Blog Link]
-</div>
