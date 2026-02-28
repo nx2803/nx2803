@@ -72,6 +72,6 @@
 ## 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nx2803&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nx2803&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nx2803&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="nx2803's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nx2803&layout=compact&theme=tokyonight&hide_langs_below=1" alt="nx2803's Top Languages" height="170" />
 </p>
