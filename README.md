@@ -10,8 +10,8 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
-<img src="https://img.shields.io/badge/Three.js_(UMAP)-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
 </p>
+
 ### ⚙️ Backend & Infrastructure
 <p align="left">
 <img src="https://img.shields.io/badge/Java_21_(Virtual_Threads)-007396?style=for-the-badge&logo=openjdk&logoColor=white">
