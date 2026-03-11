@@ -14,7 +14,7 @@
 
 ## 📊 Statistics
 
-<div align="center">
+<div align="left">
   <table border="0">
     <tr>
       <td align="center">
